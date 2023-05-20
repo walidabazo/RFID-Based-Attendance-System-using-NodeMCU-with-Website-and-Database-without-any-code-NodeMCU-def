@@ -5,6 +5,7 @@ RFID Based Attendance System
 
 
 ### Overview
+attendance management system
 
 There are many methods to track the attendance of an individual. A few years ago, when Radio Frequency Identification (RFID) electronics were still in their adolescence stages, the time stamping technique was greatly followed. As software programming and technology progressed, especially in electronics, they gave way to a much more secure and reliable arrangement known as RFID Attendance System.
 
