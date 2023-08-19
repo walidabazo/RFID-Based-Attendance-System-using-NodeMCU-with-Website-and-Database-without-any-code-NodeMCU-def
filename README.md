@@ -33,7 +33,7 @@ RC522 is the highly integrated RFID card reader which works on non-contact 13.56
 ## Download 
 
  
-https://blog.edafait.com/post.html?id=130 
+https://blog.edafait.com/post?id=130 
 
 
 
